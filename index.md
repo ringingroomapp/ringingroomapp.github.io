@@ -1,5 +1,5 @@
 # Support
-This app does not currently support account management. In order to change your account details, go to [ringingroom.com](ringingroom.com). This link is for the UK region, for other regions, go to
+This app does not currently support account management. In order to change your account details, go to [ringingroom.com](https://ringingroom.com). This link is for the UK region, for other regions, go to
 * North America: [na.ringingroom.com](na.ringingroom.com)
 * Singapore: [sg.ringingroom.com](sg.ringingroom.com)
 * ANZAB: [anzab.ringingroom.com](anzab.ringingroom.com)
